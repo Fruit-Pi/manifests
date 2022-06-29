@@ -7,7 +7,7 @@ Repo download repository package with manifests
 
 To initialize Linux source tree
 
-$ repo init --repo-url=https://github.com/Fruit-Pi/repo.git --no-clone-bundle -u https://github.com/Fruit-Pi//manifests -b master -m rockchip_linux.xml
+$ repo init -u https://github.com/Fruit-Pi//manifests -b master -m rockchip_linux.xml
 
 To synchronize the source code
 

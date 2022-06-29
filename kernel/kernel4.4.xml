@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="rk/kernel" path="kernel" revision="develop-4.4"/>
+</manifest>
