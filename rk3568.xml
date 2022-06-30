@@ -7,7 +7,7 @@
     <linkfile dest="mkfirmware.sh" src="common/mkfirmware.sh"/>
     <linkfile dest="build.sh" src="common/build.sh"/>
     <linkfile dest="rkflash.sh" src="common/rkflash.sh"/>
-    <linkfile dest="device/rockchip/.target_product" src="rk3568"/>
+    <linkfile dest="device/rockchip/.target_product" src="rk356x"/>
   </project>
 
   <project name="camera_engine_rkaiq" path="external/camera_engine_rkaiq" revision="rk356x" clone-depth="1"/>
