@@ -23,6 +23,7 @@
   <project name="chromium" path="external/chromium" revision="master" clone-depth="1"/>
   <project name="deviceio_release" path="external/deviceio_release" revision="master"/>
   <project name="rkscript" path="external/rkscript" revision="master"/>
+  <project name="rktoolkit" path="external/rktoolkit" revision="master"/>
   <project name="rkupdate" path="external/rkupdate" revision="master"/>
   <project name="rkwifibt" path="external/rkwifibt" revision="master"/>
   <project name="update_engine" path="external/update_engine" revision="master"/>
