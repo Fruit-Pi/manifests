@@ -19,7 +19,6 @@
   <project name="bluetooth_bsa" path="external/bluetooth_bsa" revision="master"/>
   <project name="bluez-alsa" path="external/bluez-alsa" revision="master"/>
   <project name="broadcom_bsa" path="external/broadcom_bsa" revision="master"/>
-  <project name="camera_engine_rkaiq" path="external/camera_engine_rkaiq" revision="rk356x" clone-depth="1"/>
   <project name="chromium" path="external/chromium" revision="master" clone-depth="1"/>
   <project name="deviceio_release" path="external/deviceio_release" revision="master"/>
   <project name="rkscript" path="external/rkscript" revision="master"/>
@@ -34,7 +33,6 @@
   <project name="debian" path="debian" revision="master" clone-depth="1"/>
   <project name="bin" path="external/security/bin" revision="master" clone-depth="1"/>
   <project name="mpp" path="external/mpp" revision="develop"/>
-  <project name="gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu" path="prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu" revision="master"/>
   <project name="buildroot" path="buildroot" revision="rockchip/2018.02-rc3">
     <linkfile dest="Makefile" src="build/Makefile"/>
     <linkfile dest="envsetup.sh" src="build/envsetup.sh"/>

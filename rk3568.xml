@@ -9,7 +9,9 @@
     <linkfile dest="rkflash.sh" src="common/rkflash.sh"/>
     <linkfile dest="device/rockchip/.target_product" src="rk3568"/>
   </project>
-  
+
+  <project name="camera_engine_rkaiq" path="external/camera_engine_rkaiq" revision="rk356x" clone-depth="1"/>
+  <project name="gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu" path="prebuilts/gcc/linux-x86/aarch64/gcc-linaro-6.3.1-2017.05-x86_64_aarch64-linux-gnu" revision="master"/>
   <project name="rknpu2" path="external/rknpu2" revision="master"/>
   <project name="rknn-toolkit2" path="external/rknn-toolkit2" revision="master" clone-depth="1"/>
 
