@@ -33,6 +33,7 @@
   <project name="debian" path="debian" revision="master" clone-depth="1"/>
   <project name="bin" path="external/security/bin" revision="master" clone-depth="1"/>
   <project name="mpp" path="external/mpp" revision="develop"/>
+  <project name="dl" path="buildroot/dl" revision="master"/>
   <project name="buildroot" path="buildroot" revision="rockchip/2018.02-rc3">
     <linkfile dest="Makefile" src="build/Makefile"/>
     <linkfile dest="envsetup.sh" src="build/envsetup.sh"/>
